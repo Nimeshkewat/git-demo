@@ -11,3 +11,5 @@ console.log('version 9');
 console.log('versioon 10');
 console.log('versioon 11');
 console.log('ssh key setup !');
+
+console.log('version 12');
